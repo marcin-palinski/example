@@ -1,5 +1,5 @@
 <h1>API tests</h1>
-<div> W ramach tego repozytorium dzielę się swoimi testami API do serwisów Trello oraz ClickUp.</div>
+<div> In this repository I share my API tests for Trello and ClickUp.</div>
 <ul>
   <li>Trello</li>
   <li>ClickUp</li>
